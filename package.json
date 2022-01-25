@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "node-learn",
+  "version": "1.0.0",
+  "description": "Learning nodejs",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "Rabin",
+  "license": "ISC"
+}
